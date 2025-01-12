@@ -51,6 +51,13 @@ int main(){
         printf("%d ", arr1[i]);
     }
     printf("\n");
+
+    printf(" INtersetion of arrays: ");
+
+    for(int i = 0; i < k; i++){
+    	printf("%d ",arr3[i]);
+    }
+
 	
 	
 }
